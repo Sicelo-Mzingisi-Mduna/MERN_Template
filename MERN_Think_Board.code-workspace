@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {},
+	"launch": {
+		"configurations": [
+			{
+				"type": "chrome",
+				"name": "http://localhost:5001/api/notes",
+				"request": "launch",
+				"url": "http://localhost:5001/api/notes"
+			}
+		]
+	}
+}
